@@ -1,0 +1,81 @@
+crop,common_name_tr,tmin_abs,topt_min,topt_max,tmax_abs,pH_min,pH_max,ece_threshold_dSm,salinity_slope_pct_per_dSm,root_depth_m,p,kc_initial,kc_mid,kc_end,texture_ok,drainage_preference,source
+alfalfa,yonca,-10.0,20.0,28.0,38.0,6.0,8.0,2.0,7.0,2.0,0.55,0.35,1.15,0.5,loam,well-drained,FAO ECOCROP (Medicago sativa); Annex A1
+almond,badem,-10.0,18.0,26.0,40.0,6.0,8.5,1.7,10.0,1.5,0.5,0.3,0.9,0.55,sandy_loam,well-drained,FAO ECOCROP (Prunus dulcis); Annex A1
+anise,anason,5.0,18.0,26.0,35.0,6.0,8.0,1.5,12.0,1.0,0.5,0.35,0.95,0.6,loam,well-drained,FAO ECOCROP (Pimpinella anisum); TAGEM
+apple,elma,-20.0,16.0,24.0,35.0,5.5,7.5,1.7,9.0,2.0,0.5,0.3,0.85,0.5,loam,well-drained,FAO ECOCROP; Annex A1 (Apple); USDA ARS
+apricot,kayısı,-15.0,18.0,26.0,35.0,6.0,8.0,1.7,14.0,1.5,0.5,0.3,0.9,0.55,loam,well-drained,FAO ECOCROP (Prunus armeniaca); Annex A1
+avocado,avokado,2.0,20.0,28.0,35.0,5.5,7.5,1.7,12.0,1.0,0.5,0.3,0.9,0.5,sandy_loam,well-drained,FAO ECOCROP (Persea americana); Annex A1
+banana,muz,10.0,25.0,30.0,38.0,5.5,7.5,1.5,20.0,1.2,0.5,0.5,1.1,0.8,sandy_loam,well-drained,FAO ECOCROP (Musa spp.); Annex A1
+barley,arpa,10.0,20.0,20.0,30.0,6.0,8.0,8.0,5.0,1.2,0.55,0.3,1.15,0.25,loam,well-drained,FAO ECOCROP; FAO-56; FAO Annex A1
+bean,fasulye (kuru),-1.71875,8.28125,16.28125,24.28125,6.0,7.5,1.0,19.0,1.5,0.55,0.35,1.15,0.5,loam,well-drained,FAO Annex A1 (Common bean); FAO Crop Info (Legumes)
+cabbage,lahana,5.0,15.0,20.0,30.0,6.0,7.5,1.8,13.0,1.0,0.5,0.6,1.15,0.8,loam,well-drained,FAO Annex A1 (Cabbage)
+canola,kanola/kolza,-1.71875,8.28125,16.28125,24.28125,6.0,8.0,11.0,13.0,1.5,0.5,0.35,1.1,0.45,loam,well-drained,FAO Annex A1
+carrot,havuç,5.0,15.0,20.0,30.0,6.0,8.0,1.0,20.0,1.0,0.5,0.6,1.15,0.8,loam,well-drained,FAO Annex A1 (Carrot)
+castor,hint yağı bitkisi,10.0,20.0,30.0,38.0,5.5,7.5,1.5,14.0,1.5,0.5,0.35,1.1,0.45,loam,well-drained,FAO ECOCROP (Ricinus communis); TAGEM
+cauliflower,karnabahar,5.0,15.0,20.0,30.0,6.0,7.5,1.2,15.0,1.0,0.5,0.6,1.15,0.8,loam,well-drained,FAO Annex A1 (Cauliflower)
+cherry,kiraz/vişne,-18.0,16.0,24.0,35.0,5.8,7.8,1.5,12.0,2.0,0.5,0.3,0.9,0.55,loam,well-drained,FAO ECOCROP (Prunus avium); Annex A1
+chestnut,kestane,-15.0,18.0,26.0,35.0,4.5,6.5,1.0,12.0,1.5,0.5,0.3,0.9,0.55,loam,well-drained,FAO ECOCROP (Castanea sativa); TAGEM
+chickpea,nohut,-1.71875,8.28125,16.28125,24.28125,6.0,8.5,1.8,12.0,1.5,0.55,0.35,1.15,0.5,loam,well-drained,FAO Annex A1 (Chickpea)
+citrus_lemon,limon,0.0,22.0,30.0,40.0,5.5,7.0,1.7,16.0,1.2,0.5,0.4,0.95,0.6,sandy_loam,well-drained,FAO ECOCROP (Citrus limon); Annex A1
+citrus_mandarin,mandalina,-3.0,20.0,30.0,38.0,5.5,7.0,1.7,16.0,1.2,0.5,0.4,0.95,0.6,sandy_loam,well-drained,FAO ECOCROP (Citrus reticulata); Annex A1
+citrus_orange,portakal,-3.0,20.0,30.0,38.0,5.5,7.0,1.7,16.0,1.2,0.5,0.4,0.95,0.6,sandy_loam,well-drained,FAO ECOCROP (Citrus sinensis); Annex A1
+coffee,kahve,10.0,22.0,28.0,35.0,5.0,7.0,1.5,10.0,1.5,0.5,0.4,1.0,0.6,loam,well-drained,FAO ECOCROP (Coffea arabica); Annex A1
+cotton,pamuk,-1.71875,8.28125,16.28125,24.28125,6.0,8.0,7.7,5.2,1.5,0.5,0.35,1.1,0.45,loam,well-drained,FAO Annex A1
+cowpea,börülce,10.0,20.0,30.0,40.0,6.0,8.0,1.5,10.0,1.5,0.55,0.35,1.15,0.5,loam,well-drained,FAO ECOCROP (Vigna unguiculata); Annex A1
+cucumber,salatalık,12.0,22.0,28.0,35.0,5.5,7.0,2.5,12.0,1.0,0.5,0.6,1.15,0.8,loam,well-drained,FAO Annex A1 (Cucumber)
+eggplant,patlıcan,12.0,22.0,30.0,36.0,5.5,7.0,1.5,9.0,1.0,0.5,0.6,1.15,0.8,loam,well-drained,FAO Annex A1 (Eggplant)
+faba_bean,bakla,-1.71875,8.28125,16.28125,24.28125,6.0,8.0,5.9,10.0,1.5,0.55,0.35,1.15,0.5,loam,well-drained,FAO Annex A1 (Faba bean)
+fennel,rezene,5.0,18.0,26.0,35.0,6.0,8.0,1.5,12.0,1.0,0.5,0.35,0.95,0.6,loam,well-drained,FAO ECOCROP (Foeniculum vulgare); TAGEM
+fig,incir,-8.0,20.0,30.0,42.0,6.0,8.0,3.0,10.0,2.0,0.5,0.3,0.85,0.5,sandy_loam,well-drained,FAO ECOCROP (Ficus carica); Annex A1
+flax,keten,-5.0,15.0,25.0,32.0,6.0,7.5,1.7,12.0,1.0,0.5,0.35,1.1,0.45,loam,well-drained,FAO ECOCROP (Linum usitatissimum); Annex A1
+grape,asma/üzüm,-10.0,20.0,30.0,40.0,5.5,7.5,1.5,9.0,2.0,0.5,0.3,0.8,0.5,loam,well-drained,FAO ECOCROP (Vitis vinifera); FAO-56; Annex A1
+green_bean,taze fasulye,-1.71875,8.28125,16.28125,24.28125,6.0,7.5,3.4,12.0,1.5,0.55,0.35,1.15,0.5,loam,well-drained,FAO ECOCROP (Green bean)
+hazelnut,fındık,-15.0,16.0,25.0,35.0,5.8,7.8,2.0,10.0,1.5,0.5,0.3,0.9,0.55,loam,well-drained,FAO ECOCROP (Corylus avellana); TAGEM
+lavender,lavanta,-8.0,18.0,28.0,35.0,6.0,8.5,1.5,10.0,1.0,0.5,0.3,0.85,0.6,sandy_loam,well-drained,FAO ECOCROP (Lavandula angustifolia); TAGEM
+lemon_balm,melisa,-5.0,18.0,28.0,35.0,6.0,8.0,1.8,12.0,1.0,0.5,0.35,0.9,0.6,loam,well-drained,FAO ECOCROP (Melissa officinalis); TAGEM
+lentil,mercimek,-1.71875,8.28125,16.28125,24.28125,6.0,8.0,3.4,15.0,1.5,0.55,0.35,1.15,0.5,loam,well-drained,FAO Annex A1 (Lentil)
+lettuce,marul,2.0,12.0,18.0,30.0,6.0,7.0,1.3,13.0,1.0,0.5,0.6,1.15,0.8,loam,well-drained,FAO Annex A1 (Lettuce)
+maize,mısır,10.0,18.0,20.0,45.0,6.0,8.0,1.7,12.0,1.0,0.55,0.3,1.2,0.5,loam,well-drained,FAO Crop Info; FAO-56; FAO Annex A1
+melon,kavun,15.0,25.0,30.0,40.0,5.5,7.5,1.7,21.0,1.0,0.5,0.6,1.15,0.8,loam,well-drained,FAO Annex A1 (Melon)
+millet,darı,-1.71875,8.28125,16.28125,24.28125,6.0,8.0,6.0,7.5,1.2,0.55,0.3,1.15,0.25,loam,well-drained,FAO ECOCROP (inferred)
+mint,nane,-2.0,20.0,28.0,35.0,6.0,8.0,1.5,12.0,0.8,0.5,0.35,0.95,0.7,loam,well-drained,FAO ECOCROP (Mentha spp.); TAGEM
+mung_bean,maş fasulyesi,12.0,22.0,30.0,40.0,6.0,7.5,1.7,10.0,1.5,0.55,0.35,1.15,0.5,loam,well-drained,FAO ECOCROP (Vigna radiata); Annex A1
+oats,yulaf,-1.71875,8.28125,16.28125,24.28125,6.0,8.0,6.0,7.5,1.2,0.55,0.3,1.15,0.25,loam,well-drained,FAO ECOCROP; FAO-56
+olive,zeytin,-7.0,18.0,28.0,40.0,6.0,8.5,3.0,10.0,1.5,0.5,0.3,0.75,0.5,"clay_loam, loam",well-drained,FAO ECOCROP (Olea europaea); GAEZ; Annex A1
+onion,soğan,2.0,12.0,25.0,35.0,6.0,8.0,1.2,16.0,1.0,0.5,0.6,1.15,0.8,loam,well-drained,FAO Annex A1 (Onion)
+oregano,kekik,-5.0,18.0,28.0,35.0,6.0,8.0,1.8,12.0,1.0,0.5,0.35,0.9,0.6,sandy_loam,well-drained,FAO ECOCROP (Origanum vulgare); TAGEM
+pea,bezelye,3.0,13.0,18.0,30.0,6.0,7.5,3.4,12.0,1.5,0.55,0.35,1.15,0.5,loam,well-drained,FAO Annex A1 (Pea); ECOCROP
+peach,şeftali,-15.0,18.0,26.0,35.0,5.8,7.8,1.7,14.0,1.5,0.5,0.3,0.9,0.55,sandy_loam,well-drained,FAO ECOCROP; Annex A1
+peanut,yer fıstığı,-1.71875,8.28125,16.28125,24.28125,6.0,8.0,3.2,29.0,1.5,0.5,0.35,1.1,0.45,loam,well-drained,FAO Annex A1
+pear,armut,-20.0,15.0,25.0,35.0,5.5,7.5,1.5,12.0,2.0,0.5,0.3,0.9,0.55,loam,well-drained,FAO ECOCROP (Pyrus spp.); Annex A1
+pepper,biber,10.0,20.0,30.0,35.0,5.5,7.0,1.5,15.0,1.0,0.5,0.6,1.15,0.8,loam,well-drained,FAO Annex A1 (Pepper); ECOCROP
+pistachio,antepfıstığı,-6.0,20.0,30.0,42.0,7.0,8.5,8.0,8.0,3.0,0.5,0.3,0.9,0.55,sandy_loam,well-drained,FAO ECOCROP (Pistacia vera); Annex A1
+plum,erik,-18.0,15.0,25.0,35.0,5.8,7.8,1.7,12.0,1.5,0.5,0.3,0.9,0.55,loam,well-drained,FAO ECOCROP (Prunus domestica); Annex A1
+pomegranate,nar,-8.0,20.0,30.0,40.0,5.5,7.5,2.0,12.0,2.0,0.5,0.3,0.9,0.6,loam,well-drained,FAO ECOCROP (Punica granatum); Annex A1
+poppy,haşhaş,5.0,15.0,25.0,32.0,6.0,8.0,1.8,12.0,1.0,0.5,0.35,1.1,0.45,loam,well-drained,FAO ECOCROP (Papaver somniferum); TAGEM
+potato,patates,-1.71875,8.28125,16.28125,24.28125,5.5,7.5,2.0,12.0,1.0,0.5,0.6,1.15,0.8,loam,well-drained,FAO ECOCROP (inferred)
+pumpkin,kabak,8.0,18.0,27.0,35.0,6.0,7.5,2.0,13.0,1.0,0.5,0.6,1.15,0.8,loam,well-drained,FAO Annex A1 (Pumpkin)
+quinoa,kinoa,-4.0,15.0,25.0,32.0,6.0,8.5,14.0,5.0,1.5,0.5,0.35,1.1,0.45,loam,well-drained,FAO ECOCROP (Chenopodium quinoa); FAO Annex A1
+rice,çeltik/pirinç,-1.71875,8.28125,16.28125,24.28125,6.0,8.0,3.0,12.0,1.2,0.55,1.05,1.15,0.25,loam,well-drained,FAO-56; FAO Annex A1
+rose_oil,yağ gülü,-10.0,18.0,26.0,35.0,6.0,8.0,1.5,12.0,1.0,0.5,0.35,0.95,0.6,loam,well-drained,TAGEM (Rosa damascena proj.); ECOCROP
+rosemary,biberiye,-5.0,20.0,28.0,35.0,6.0,8.5,2.0,12.0,1.0,0.5,0.35,0.95,0.6,sandy_loam,well-drained,FAO ECOCROP (Rosmarinus officinalis); TAGEM
+rye,çavdar,-18.0,-8.0,0.0,8.0,6.0,8.0,11.4,10.8,1.2,0.55,0.3,1.15,0.25,loam,well-drained,FAO ECOCROP; FAO-56; FAO Annex A1
+safflower,aspir,12.0,22.0,28.0,35.0,6.0,8.0,5.0,9.0,1.5,0.5,0.35,1.1,0.45,loam,well-drained,FAO ECOCROP (Carthamus tinctorius); Annex A1
+sage,adaçayı,-5.0,18.0,28.0,35.0,6.0,8.5,1.8,12.0,1.0,0.5,0.35,0.9,0.6,sandy_loam,well-drained,FAO ECOCROP (Salvia officinalis); TAGEM
+sainfoin,korunga,-10.0,20.0,28.0,35.0,6.0,8.0,2.0,7.0,2.0,0.55,0.35,1.15,0.5,loam,well-drained,FAO ECOCROP (Onobrychis vicifolia); TAGEM
+sesame,susam,-1.71875,8.28125,16.28125,24.28125,6.0,8.0,3.0,10.0,1.5,0.5,0.35,1.1,0.45,loam,well-drained,FAO ECOCROP (inferred)
+sorghum,sorgum,-1.71875,8.28125,16.28125,24.28125,6.0,8.0,6.8,16.0,1.2,0.55,0.3,1.15,0.25,loam,well-drained,FAO Annex A1
+soybean,soya,10.0,20.0,30.0,40.0,5.5,7.0,5.0,20.0,1.5,0.55,0.35,1.15,0.5,loam,well-drained,FAO 56 Table 12; FAO Annex A1
+spinach,ıspanak,0.0,10.0,18.0,30.0,6.0,7.5,2.0,10.0,1.0,0.5,0.6,1.15,0.8,loam,well-drained,FAO Annex A1 (Spinach)
+sugar_beet,şeker pancarı,-5.0,20.0,25.0,35.0,6.0,8.0,7.0,5.9,1.5,0.5,0.35,1.1,0.45,loam,well-drained,FAO Annex A1; FAO 56
+sugarcane,şeker kamışı,10.0,25.0,30.0,40.0,5.5,8.0,1.7,5.9,2.0,0.5,0.35,1.1,0.45,loam,well-drained,FAO Annex A1; FAO ECOCROP
+sunflower,ayçiçeği,-1.71875,8.28125,16.28125,24.28125,6.0,8.0,4.8,5.0,1.5,0.5,0.35,1.1,0.45,loam,well-drained,FAO Annex A1
+sweet_potato,tatlı patates,-1.71875,8.28125,16.28125,24.28125,5.5,7.5,2.0,12.0,1.0,0.5,0.6,1.15,0.8,loam,well-drained,FAO ECOCROP (inferred)
+tea,çay,5.0,18.0,26.0,35.0,4.5,6.5,1.0,12.0,1.5,0.5,0.35,0.95,0.5,clay_loam,well-drained,FAO ECOCROP (Camellia sinensis); TAGEM
+tobacco,tütün,8.0,20.0,30.0,35.0,5.5,7.5,1.6,14.0,1.0,0.5,0.5,1.05,0.7,sandy_loam,well-drained,FAO 56 Table 12; FAO ECOCROP
+tomato,domates,11.0,21.0,26.0,36.0,5.5,7.5,2.5,9.0,1.0,0.5,0.6,1.15,0.8,"sandy_loam, loam",well-drained,FAO 56 Table 12; FAO Annex A1 (Tomato)
+triticale,tritikale,-18.0,15.0,20.0,35.0,6.0,8.0,6.0,7.1,1.2,0.55,0.3,1.15,0.25,loam,well-drained,FAO 56 Cereal Group; FAO Annex A1
+vetch,fiğ,-10.0,18.0,25.0,35.0,6.0,8.0,1.7,12.0,1.5,0.55,0.35,1.15,0.5,loam,well-drained,FAO ECOCROP (Vicia sativa); TAGEM
+walnut,ceviz,-18.0,20.0,28.0,38.0,6.0,8.0,3.0,10.0,2.0,0.5,0.3,0.9,0.55,loam,well-drained,FAO ECOCROP (Juglans regia); TAGEM
+watermelon,karpuz,15.0,25.0,30.0,40.0,5.5,7.5,1.7,21.0,1.0,0.5,0.6,1.15,0.8,loam,well-drained,FAO Annex A1 (Watermelon)
+wheat,buğday,-20.0,15.0,20.0,30.0,6.0,8.0,6.0,7.1,1.2,0.55,0.3,1.15,0.25,"loam, silt_loam",well-drained,FAO-56; FAO Crop Info; FAO Water Quality Annex A1

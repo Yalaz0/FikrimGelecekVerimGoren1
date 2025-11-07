@@ -1,0 +1,60 @@
+crop,common_name_tr,p,root_depth_m,kc_initial,kc_mid,kc_end,L_ini,L_dev,L_mid,L_late,notes,source
+wheat,buğday,0.55,1.2,0.3,1.15,0.25,20,30,50,30,kışlık/sulanan tipik FAO-56,FAO-56; FAO Crop Info
+barley,arpa,0.55,1.2,0.3,1.1,0.25,20,25,45,25,kışlık arpa,FAO-56; FAO Crop Info
+rye,çavdar,0.55,1.2,0.3,1.1,0.25,20,25,45,25,tahıl grubu,FAO-56
+oats,yulaf,0.55,1.2,0.3,1.1,0.25,20,25,45,25,tahıl grubu,FAO-56
+maize,mısır,0.55,1.3,0.3,1.2,0.35,20,30,50,30,tane mısır için,FAO-56; FAO Crop Info (maize)
+rice,çeltik/pirinç,0.2,0.35,1.05,1.2,1.05,20,30,60,30,sürekli su yüzeyi,FAO-56
+sorghum,sorgum,0.55,1.4,0.3,1.05,0.3,20,30,50,30,kurak toleranslı,FAO-56
+millet,darı,0.5,1.2,0.3,1.05,0.3,20,25,45,25,,FAO-56
+sunflower,ayçiçeği,0.45,2.0,0.35,1.15,0.6,25,35,45,20,derin kök,FAO-56; FAO Crop Info (sunflower)
+canola,kanola/kolza,0.5,1.0,0.3,1.15,0.35,20,30,50,30,yağlı tohum,FAO-56
+sesame,susam,0.5,1.0,0.35,1.1,0.35,20,30,45,25,yağlı tohum,FAO-56
+peanut,yer fıstığı,0.5,1.2,0.4,1.15,0.45,25,35,45,25,baklagil/yağlı tohum,FAO-56
+safflower,aspir,0.5,1.5,0.35,1.1,0.35,25,30,45,25,,FAO-56
+cotton,pamuk,0.55,1.2,0.35,1.15,0.65,30,40,60,30,uzun sezon,FAO-56
+sugar_beet,şekerpancarı,0.55,1.5,0.45,1.15,0.7,25,35,60,30,kök bitkisi,FAO-56
+tobacco,tütün,0.5,1.0,0.4,1.1,0.35,25,35,50,25,endüstri bitkisi,FAO-56
+potato,patates,0.5,0.3,0.5,1.1,0.75,30,45,50,30,sığ kök,FAO-56
+sweet_potato,yer elması/tatlı patates,0.5,0.5,0.5,1.1,0.8,30,45,50,30,,FAO-56
+carrot,havuç,0.35,0.5,0.7,1.05,0.95,20,30,50,20,kök sebze,FAO-56
+onion,soğan,0.35,0.4,0.7,1.05,0.75,25,35,45,25,sığ kök,FAO-56
+garlic,sarımsak,0.35,0.4,0.6,1.05,0.7,25,35,45,25,,FAO-56
+tomato,domates,0.5,0.6,0.6,1.15,0.8,30,40,60,30,açık alan,FAO-56
+pepper,biber,0.5,0.6,0.6,1.05,0.8,25,35,50,25,,FAO-56
+eggplant,patlıcan,0.5,0.6,0.6,1.05,0.8,30,40,60,30,,FAO-56
+cucumber,salatalık,0.5,0.6,0.6,1.05,0.85,25,30,45,25,,FAO-56
+melon,kavun,0.5,0.8,0.4,1.05,0.7,25,35,50,25,kabakgiller,FAO-56
+watermelon,karpuz,0.5,0.8,0.4,1.05,0.7,25,35,50,25,kabakgiller,FAO-56
+pumpkin,kabak,0.5,0.8,0.4,1.05,0.7,25,35,50,25,,FAO-56
+cabbage,lahana,0.5,0.6,0.5,1.05,0.95,25,40,55,25,yapraklı,FAO-56
+cauliflower,karnabahar,0.5,0.6,0.5,1.05,0.95,25,40,55,25,yapraklı,FAO-56
+lettuce,marul,0.35,0.4,0.5,1.0,0.95,20,30,40,20,yapraklı; kısa sezon,FAO-56
+spinach,ıspanak,0.35,0.4,0.5,1.0,0.95,20,30,40,20,,FAO-56
+bean,fasulye (kuru),0.45,0.3,0.4,1.15,0.35,20,30,40,20,tane baklagil,FAO-56
+green_bean,taze fasulye,0.45,0.4,0.5,1.1,0.6,20,30,40,20,sebze,FAO-56
+pea,bezelye,0.45,0.6,0.4,1.05,0.35,20,30,40,20,baklagil,FAO-56
+faba_bean,bakla,0.45,0.8,0.4,1.1,0.35,20,30,45,25,baklagil,FAO-56
+chickpea,nohut,0.45,0.8,0.4,1.05,0.35,20,30,40,20,kurak toleranslı,FAO-56
+lentil,mercimek,0.45,0.6,0.4,1.05,0.35,20,30,40,20,baklagil,FAO-56
+soybean,soya,0.5,1.5,0.4,1.15,0.5,20,30,50,25,kazık kök,FAO-56
+sugarcane,şeker kamışı,0.55,1.5,0.4,1.2,0.8,40,60,120,40,uzun sezon,FAO-56
+grape,asma/üzüm,0.55,1.5,0.4,0.9,0.6,50,60,90,60,taç örtüsü etkili,FAO-56
+olive,zeytin,0.55,1.5,0.55,0.7,0.6,60,60,120,60,evergreen; 1.2–1.7 m,FAO Crop Info (olive); FAO-56
+apple,elma,0.55,1.5,0.5,0.95,0.65,50,60,90,60,meyve ağaçları,FAO-56
+pear,armut,0.55,1.5,0.5,0.95,0.65,50,60,90,60,,FAO-56
+peach,şeftali,0.55,1.5,0.5,0.95,0.65,50,60,90,60,,FAO-56
+apricot,kayısı,0.55,1.5,0.5,0.95,0.65,50,60,90,60,,FAO-56
+cherry,kiraz/vişne,0.55,1.5,0.5,0.95,0.65,50,60,90,60,,FAO-56
+plum,erik,0.55,1.5,0.5,0.95,0.65,50,60,90,60,,FAO-56
+pomegranate,nar,0.55,1.5,0.5,0.95,0.65,50,60,90,60,Akdeniz meyvesi,FAO-56
+citrus_orange,portakal,0.55,1.5,0.55,0.95,0.7,60,60,120,60,narenciye,FAO-56
+citrus_mandarin,mandalina,0.55,1.5,0.55,0.95,0.7,60,60,120,60,,FAO-56
+citrus_lemon,limon,0.55,1.5,0.55,0.95,0.7,60,60,120,60,,FAO-56
+hazelnut,fındık,0.5,1.2,0.5,0.95,0.65,40,50,80,50,Karadeniz,FAO Crop Info (hazelnut); FAO-56
+walnut,ceviz,0.55,1.8,0.5,0.95,0.65,50,60,90,60,derin kök,FAO-56
+almond,badem,0.55,1.8,0.5,0.95,0.65,50,60,90,60,,FAO-56
+pistachio,antepfıstığı,0.6,1.8,0.4,0.9,0.6,50,60,90,60,kurak toleranslı ağaç,FAO-56
+tea,çay,0.55,1.2,0.5,0.95,0.8,60,60,120,60,yağışlı iklim,FAO Crop Info (tea); FAO-56
+olive_table,sofralık zeytin,0.55,1.5,0.55,0.7,0.6,60,60,120,60,aynı parametreler,FAO Crop Info (olive)
+strawberry,çilek,0.35,0.3,0.6,1.05,0.85,20,30,40,20,çok sığ kök,FAO-56
